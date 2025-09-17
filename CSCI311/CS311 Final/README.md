@@ -1,5 +1,5 @@
-# CS311Final
-Final for CS311. Naive Bayes political sentiment analyzer. 
+# NB Political Sentiment Analyzer
+Project for CS311. Naive Bayes model. 
 
 All training and testing data have been omitted from this repository for display purposes. All data sourced from Kaggle. 
 Displayed around 85 percent accuracy as coded.
